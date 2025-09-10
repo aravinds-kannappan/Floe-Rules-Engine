@@ -178,11 +178,11 @@ Templates automatically adapt based on detected context:
 - Staff workflow automation
 - Patient communication compliance
 
-## Project Results
+## Projected Results (When code works)
 
 This NLP-powered rules engine successfully addresses the complexity of healthcare communication automation through:
 
-### Technical Achievements
+### Technical Achievements (PROJECTED)
 - **Natural Language Processing**: 90%+ accuracy in healthcare rule interpretation
 - **Performance**: Sub-second processing for 10,000 appointment evaluations
 - **Reliability**: Comprehensive error handling with graceful degradation
