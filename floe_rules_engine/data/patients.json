@@ -1,0 +1,1984 @@
+[
+  {
+    "id": "pt_1001",
+    "first_name": "Sebastian",
+    "last_name": "Kumar",
+    "email": "sebastian.kumar@dwh-clinic.com",
+    "phone": "+13192073064",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "prefers_sms_only"
+    ]
+  },
+  {
+    "id": "pt_1002",
+    "first_name": "Ana",
+    "last_name": "Walker",
+    "email": "ana.walker@dwh-clinic.com",
+    "phone": "+16080169434",
+    "practice_id": "prac_002",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "oncology"
+    ]
+  },
+  {
+    "id": "pt_1003",
+    "first_name": "Mason",
+    "last_name": "Hernandez",
+    "email": "mason.hernandez@sunriseoncology.com",
+    "phone": "+12594457323",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1004",
+    "first_name": "Priya",
+    "last_name": "Santos",
+    "email": "priya.santos@dwh-clinic.com",
+    "phone": "+17385441683",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1005",
+    "first_name": "Amelia",
+    "last_name": "Kim",
+    "email": "amelia.kim@sunriseoncology.com",
+    "phone": "+18294163844",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1006",
+    "first_name": "John",
+    "last_name": "Kim",
+    "email": "john.kim@baycare-ortho.com",
+    "phone": "+17829104312",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1007",
+    "first_name": "Emma",
+    "last_name": "Walker",
+    "email": "emma.walker@dwh-clinic.com",
+    "phone": "+18606867288",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1008",
+    "first_name": "Sebastian",
+    "last_name": "Santos",
+    "email": "sebastian.santos@baycare-ortho.com",
+    "phone": "+18709800252",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1009",
+    "first_name": "Robert",
+    "last_name": "Williams",
+    "email": "robert.williams@sunriseoncology.com",
+    "phone": "+18310038304",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1010",
+    "first_name": "Alexander",
+    "last_name": "Santos",
+    "email": "alexander.santos@baycare-ortho.com",
+    "phone": "+15530870737",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1011",
+    "first_name": "Olivia",
+    "last_name": "Fields",
+    "email": "olivia.fields@dwh-clinic.com",
+    "phone": "+16551076514",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1012",
+    "first_name": "Emma",
+    "last_name": "Brown",
+    "email": "emma.brown@baycare-ortho.com",
+    "phone": "+15173484965",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1013",
+    "first_name": "Maya",
+    "last_name": "ONeill",
+    "email": "maya.oneill@baycare-ortho.com",
+    "phone": "+19163251986",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1014",
+    "first_name": "Juan",
+    "last_name": "Fields",
+    "email": "juan.fields@baycare-ortho.com",
+    "phone": "+15998204289",
+    "practice_id": "prac_001",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high",
+      "spanish_preferred:true"
+    ]
+  },
+  {
+    "id": "pt_1015",
+    "first_name": "John",
+    "last_name": "Moore",
+    "email": "john.moore@baycare-ortho.com",
+    "phone": "+18736505762",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1016",
+    "first_name": "Maya",
+    "last_name": "Kim",
+    "email": "maya.kim@baycare-ortho.com",
+    "phone": "+14021688509",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1017",
+    "first_name": "Mason",
+    "last_name": "Hernandez",
+    "email": "mason.hernandez@sunriseoncology.com",
+    "phone": "+13108811928",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1018",
+    "first_name": "Robert",
+    "last_name": "Perez",
+    "email": "robert.perez@dwh-clinic.com",
+    "phone": "+12209442646",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1019",
+    "first_name": "Luis",
+    "last_name": "Anderson",
+    "email": "luis.anderson@dwh-clinic.com",
+    "phone": "+17673979340",
+    "practice_id": "prac_002",
+    "language": "es",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1020",
+    "first_name": "Luc\u00eda",
+    "last_name": "Kim",
+    "email": "luc\u00eda.kim@sunriseoncology.com",
+    "phone": "+14769146778",
+    "practice_id": "prac_003",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1021",
+    "first_name": "Henry",
+    "last_name": "Santos",
+    "email": "henry.santos@baycare-ortho.com",
+    "phone": "+12384730415",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1022",
+    "first_name": "Olivia",
+    "last_name": "Williams",
+    "email": "olivia.williams@baycare-ortho.com",
+    "phone": "+18862814418",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1023",
+    "first_name": "Daniel",
+    "last_name": "Santos",
+    "email": "daniel.santos@sunriseoncology.com",
+    "phone": "+18201926442",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1024",
+    "first_name": "Amelia",
+    "last_name": "Perez",
+    "email": "amelia.perez@dwh-clinic.com",
+    "phone": "+16889256234",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1025",
+    "first_name": "Mia",
+    "last_name": "Santos",
+    "email": "mia.santos@dwh-clinic.com",
+    "phone": "+18009623814",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1026",
+    "first_name": "Sebastian",
+    "last_name": "Moore",
+    "email": "sebastian.moore@sunriseoncology.com",
+    "phone": "+18601151163",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1027",
+    "first_name": "Noah",
+    "last_name": "Perez",
+    "email": "noah.perez@baycare-ortho.com",
+    "phone": "+18382610884",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1028",
+    "first_name": "Daniel",
+    "last_name": "Nguyen",
+    "email": "daniel.nguyen@baycare-ortho.com",
+    "phone": "+15918123173",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1029",
+    "first_name": "Ethan",
+    "last_name": "Wilson",
+    "email": "ethan.wilson@sunriseoncology.com",
+    "phone": "+13787282003",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1030",
+    "first_name": "Jackson",
+    "last_name": "Gonzalez",
+    "email": "jackson.gonzalez@baycare-ortho.com",
+    "phone": "+17351869066",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "oncology"
+    ]
+  },
+  {
+    "id": "pt_1031",
+    "first_name": "Daniel",
+    "last_name": "Kumar",
+    "email": "daniel.kumar@sunriseoncology.com",
+    "phone": "+14456557931",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1032",
+    "first_name": "Robert",
+    "last_name": "Martinez",
+    "email": "robert.martinez@baycare-ortho.com",
+    "phone": "+15407775141",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1033",
+    "first_name": "Priya",
+    "last_name": "Anderson",
+    "email": "priya.anderson@dwh-clinic.com",
+    "phone": "+16825051838",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1034",
+    "first_name": "John",
+    "last_name": "Rodriguez",
+    "email": "john.rodriguez@sunriseoncology.com",
+    "phone": "+16960527190",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1035",
+    "first_name": "Mason",
+    "last_name": "Wilson",
+    "email": "mason.wilson@dwh-clinic.com",
+    "phone": "+14755644712",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1036",
+    "first_name": "James",
+    "last_name": "Fields",
+    "email": "james.fields@sunriseoncology.com",
+    "phone": "+15707687372",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1037",
+    "first_name": "Juan",
+    "last_name": "Taylor",
+    "email": "juan.taylor@sunriseoncology.com",
+    "phone": "+14690984275",
+    "practice_id": "prac_003",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": true,
+    "tags": [
+      "no_show_risk:high",
+      "prefers_sms_only"
+    ]
+  },
+  {
+    "id": "pt_1038",
+    "first_name": "John",
+    "last_name": "Davis",
+    "email": "john.davis@sunriseoncology.com",
+    "phone": "+15685143283",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1039",
+    "first_name": "Michael",
+    "last_name": "Ramirez",
+    "email": "michael.ramirez@sunriseoncology.com",
+    "phone": "+12755458402",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "prefers_sms_only"
+    ]
+  },
+  {
+    "id": "pt_1040",
+    "first_name": "Daniel",
+    "last_name": "Garcia",
+    "email": "daniel.garcia@baycare-ortho.com",
+    "phone": "+19291628132",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1041",
+    "first_name": "Jackson",
+    "last_name": "Kumar",
+    "email": "jackson.kumar@sunriseoncology.com",
+    "phone": "+19693207538",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1042",
+    "first_name": "Noah",
+    "last_name": "Patel",
+    "email": "noah.patel@dwh-clinic.com",
+    "phone": "+14897642156",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": true,
+    "tags": []
+  },
+  {
+    "id": "pt_1043",
+    "first_name": "Olivia",
+    "last_name": "Walker",
+    "email": "olivia.walker@baycare-ortho.com",
+    "phone": "+19037751753",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1044",
+    "first_name": "Daniel",
+    "last_name": "Lewis",
+    "email": "daniel.lewis@baycare-ortho.com",
+    "phone": "+15215255234",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1045",
+    "first_name": "Luis",
+    "last_name": "Brown",
+    "email": "luis.brown@sunriseoncology.com",
+    "phone": "+12917346251",
+    "practice_id": "prac_003",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "spanish_preferred:true"
+    ]
+  },
+  {
+    "id": "pt_1046",
+    "first_name": "Grace",
+    "last_name": "Anderson",
+    "email": "grace.anderson@sunriseoncology.com",
+    "phone": "+19336769864",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "oncology"
+    ]
+  },
+  {
+    "id": "pt_1047",
+    "first_name": "Ana",
+    "last_name": "Martinez",
+    "email": "ana.martinez@baycare-ortho.com",
+    "phone": "+18410911997",
+    "practice_id": "prac_001",
+    "language": "es",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "spanish_preferred:true"
+    ]
+  },
+  {
+    "id": "pt_1048",
+    "first_name": "Henry",
+    "last_name": "Fields",
+    "email": "henry.fields@sunriseoncology.com",
+    "phone": "+14434490950",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1049",
+    "first_name": "Lucas",
+    "last_name": "Ramirez",
+    "email": "lucas.ramirez@dwh-clinic.com",
+    "phone": "+16081348841",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1050",
+    "first_name": "Grace",
+    "last_name": "Brooks",
+    "email": "grace.brooks@sunriseoncology.com",
+    "phone": "+17947961867",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1051",
+    "first_name": "Grace",
+    "last_name": "Garcia",
+    "email": "grace.garcia@sunriseoncology.com",
+    "phone": "+18629345569",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1052",
+    "first_name": "Emma",
+    "last_name": "Wilson",
+    "email": "emma.wilson@baycare-ortho.com",
+    "phone": "+16245258834",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1053",
+    "first_name": "Mason",
+    "last_name": "Perez",
+    "email": "mason.perez@baycare-ortho.com",
+    "phone": "+13151905352",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1054",
+    "first_name": "Harper",
+    "last_name": "Garcia",
+    "email": "harper.garcia@dwh-clinic.com",
+    "phone": "+19882219300",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1055",
+    "first_name": "Carlos",
+    "last_name": "Lopez",
+    "email": "carlos.lopez@sunriseoncology.com",
+    "phone": "+15403051067",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1056",
+    "first_name": "Isabella",
+    "last_name": "Garcia",
+    "email": "isabella.garcia@sunriseoncology.com",
+    "phone": "+17581298023",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1057",
+    "first_name": "Robert",
+    "last_name": "Moore",
+    "email": "robert.moore@sunriseoncology.com",
+    "phone": "+14764815342",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1058",
+    "first_name": "Juan",
+    "last_name": "Brooks",
+    "email": "juan.brooks@sunriseoncology.com",
+    "phone": "+15855386158",
+    "practice_id": "prac_003",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1059",
+    "first_name": "Maya",
+    "last_name": "Martinez",
+    "email": "maya.martinez@sunriseoncology.com",
+    "phone": "+12665973920",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1060",
+    "first_name": "Olivia",
+    "last_name": "Patel",
+    "email": "olivia.patel@baycare-ortho.com",
+    "phone": "+13192301664",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "oncology"
+    ]
+  },
+  {
+    "id": "pt_1061",
+    "first_name": "Diego",
+    "last_name": "ONeill",
+    "email": "diego.oneill@baycare-ortho.com",
+    "phone": "+14241551991",
+    "practice_id": "prac_001",
+    "language": "es",
+    "comm_prefs": {
+      "sms": false,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1062",
+    "first_name": "Sebastian",
+    "last_name": "Kim",
+    "email": "sebastian.kim@baycare-ortho.com",
+    "phone": "+16712178187",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1063",
+    "first_name": "Mason",
+    "last_name": "Taylor",
+    "email": "mason.taylor@baycare-ortho.com",
+    "phone": "+12944351929",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1064",
+    "first_name": "Liam",
+    "last_name": "Lewis",
+    "email": "liam.lewis@dwh-clinic.com",
+    "phone": "+17368519121",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1065",
+    "first_name": "Mason",
+    "last_name": "Garcia",
+    "email": "mason.garcia@dwh-clinic.com",
+    "phone": "+13092241272",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": true,
+    "tags": []
+  },
+  {
+    "id": "pt_1066",
+    "first_name": "Maya",
+    "last_name": "Miller",
+    "email": "maya.miller@dwh-clinic.com",
+    "phone": "+13556840706",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1067",
+    "first_name": "James",
+    "last_name": "Nguyen",
+    "email": "james.nguyen@sunriseoncology.com",
+    "phone": "+19279648988",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1068",
+    "first_name": "Amelia",
+    "last_name": "Nguyen",
+    "email": "amelia.nguyen@sunriseoncology.com",
+    "phone": "+15403242461",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1069",
+    "first_name": "Henry",
+    "last_name": "Williams",
+    "email": "henry.williams@baycare-ortho.com",
+    "phone": "+13356343440",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1070",
+    "first_name": "Diego",
+    "last_name": "Rodriguez",
+    "email": "diego.rodriguez@dwh-clinic.com",
+    "phone": "+14648669993",
+    "practice_id": "prac_002",
+    "language": "es",
+    "comm_prefs": {
+      "sms": false,
+      "email": false,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1071",
+    "first_name": "Sebastian",
+    "last_name": "Taylor",
+    "email": "sebastian.taylor@dwh-clinic.com",
+    "phone": "+18321268070",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1072",
+    "first_name": "Mateo",
+    "last_name": "Kim",
+    "email": "mateo.kim@baycare-ortho.com",
+    "phone": "+13157816783",
+    "practice_id": "prac_001",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1073",
+    "first_name": "Emma",
+    "last_name": "Kim",
+    "email": "emma.kim@baycare-ortho.com",
+    "phone": "+14837874070",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1074",
+    "first_name": "John",
+    "last_name": "Kim",
+    "email": "john.kim@baycare-ortho.com",
+    "phone": "+19589048866",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1075",
+    "first_name": "Luis",
+    "last_name": "Lewis",
+    "email": "luis.lewis@baycare-ortho.com",
+    "phone": "+19065703580",
+    "practice_id": "prac_001",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1076",
+    "first_name": "Ava",
+    "last_name": "Anderson",
+    "email": "ava.anderson@dwh-clinic.com",
+    "phone": "+13252898729",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": true,
+    "tags": []
+  },
+  {
+    "id": "pt_1077",
+    "first_name": "Logan",
+    "last_name": "Chen",
+    "email": "logan.chen@dwh-clinic.com",
+    "phone": "+15694738035",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1078",
+    "first_name": "Benjamin",
+    "last_name": "Kim",
+    "email": "benjamin.kim@sunriseoncology.com",
+    "phone": "+12099995345",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1079",
+    "first_name": "Ava",
+    "last_name": "Gonzalez",
+    "email": "ava.gonzalez@baycare-ortho.com",
+    "phone": "+16564215080",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1080",
+    "first_name": "Harper",
+    "last_name": "Patel",
+    "email": "harper.patel@baycare-ortho.com",
+    "phone": "+14620072140",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1081",
+    "first_name": "Logan",
+    "last_name": "Moore",
+    "email": "logan.moore@dwh-clinic.com",
+    "phone": "+15596091393",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1082",
+    "first_name": "Henry",
+    "last_name": "Brooks",
+    "email": "henry.brooks@baycare-ortho.com",
+    "phone": "+14611180086",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1083",
+    "first_name": "Luc\u00eda",
+    "last_name": "Clark",
+    "email": "luc\u00eda.clark@baycare-ortho.com",
+    "phone": "+17986764307",
+    "practice_id": "prac_001",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1084",
+    "first_name": "Priya",
+    "last_name": "ONeill",
+    "email": "priya.oneill@dwh-clinic.com",
+    "phone": "+16122422797",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1085",
+    "first_name": "Juan",
+    "last_name": "Fields",
+    "email": "juan.fields@dwh-clinic.com",
+    "phone": "+13488580384",
+    "practice_id": "prac_002",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "spanish_preferred:true"
+    ]
+  },
+  {
+    "id": "pt_1086",
+    "first_name": "Valentina",
+    "last_name": "Taylor",
+    "email": "valentina.taylor@baycare-ortho.com",
+    "phone": "+18945329273",
+    "practice_id": "prac_001",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "spanish_preferred:true"
+    ]
+  },
+  {
+    "id": "pt_1087",
+    "first_name": "Olivia",
+    "last_name": "Taylor",
+    "email": "olivia.taylor@dwh-clinic.com",
+    "phone": "+14527174354",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1088",
+    "first_name": "Lucas",
+    "last_name": "Hernandez",
+    "email": "lucas.hernandez@baycare-ortho.com",
+    "phone": "+13307911727",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1089",
+    "first_name": "Ethan",
+    "last_name": "Rodriguez",
+    "email": "ethan.rodriguez@dwh-clinic.com",
+    "phone": "+14996133723",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1090",
+    "first_name": "Sophia",
+    "last_name": "Ramirez",
+    "email": "sophia.ramirez@baycare-ortho.com",
+    "phone": "+14600824340",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1091",
+    "first_name": "Lucas",
+    "last_name": "Nguyen",
+    "email": "lucas.nguyen@dwh-clinic.com",
+    "phone": "+14229207200",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1092",
+    "first_name": "Alexander",
+    "last_name": "Taylor",
+    "email": "alexander.taylor@sunriseoncology.com",
+    "phone": "+19233655194",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1093",
+    "first_name": "Harper",
+    "last_name": "Nguyen",
+    "email": "harper.nguyen@baycare-ortho.com",
+    "phone": "+17638652436",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1094",
+    "first_name": "Isabella",
+    "last_name": "Williams",
+    "email": "isabella.williams@dwh-clinic.com",
+    "phone": "+19541836985",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1095",
+    "first_name": "Noah",
+    "last_name": "Santos",
+    "email": "noah.santos@baycare-ortho.com",
+    "phone": "+17162009344",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1096",
+    "first_name": "Carlos",
+    "last_name": "Kumar",
+    "email": "carlos.kumar@baycare-ortho.com",
+    "phone": "+14422446084",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1097",
+    "first_name": "Benjamin",
+    "last_name": "Ramirez",
+    "email": "benjamin.ramirez@baycare-ortho.com",
+    "phone": "+19020893263",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1098",
+    "first_name": "Ava",
+    "last_name": "Davis",
+    "email": "ava.davis@sunriseoncology.com",
+    "phone": "+12091076999",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1099",
+    "first_name": "Sof\u00eda",
+    "last_name": "Lopez",
+    "email": "sof\u00eda.lopez@sunriseoncology.com",
+    "phone": "+12310976543",
+    "practice_id": "prac_003",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "spanish_preferred:true",
+      "oncology"
+    ]
+  },
+  {
+    "id": "pt_1100",
+    "first_name": "Juan",
+    "last_name": "Garcia",
+    "email": "juan.garcia@dwh-clinic.com",
+    "phone": "+19648981949",
+    "practice_id": "prac_002",
+    "language": "es",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "spanish_preferred:true",
+      "oncology"
+    ]
+  },
+  {
+    "id": "pt_1101",
+    "first_name": "Valentina",
+    "last_name": "Kumar",
+    "email": "valentina.kumar@baycare-ortho.com",
+    "phone": "+16708770531",
+    "practice_id": "prac_001",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "oncology"
+    ]
+  },
+  {
+    "id": "pt_1102",
+    "first_name": "Lucas",
+    "last_name": "Nguyen",
+    "email": "lucas.nguyen@sunriseoncology.com",
+    "phone": "+14162034463",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": true,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1103",
+    "first_name": "Amelia",
+    "last_name": "Miller",
+    "email": "amelia.miller@baycare-ortho.com",
+    "phone": "+15551938290",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": false,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1104",
+    "first_name": "Logan",
+    "last_name": "Walker",
+    "email": "logan.walker@sunriseoncology.com",
+    "phone": "+18364881493",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1105",
+    "first_name": "Sophia",
+    "last_name": "Lewis",
+    "email": "sophia.lewis@baycare-ortho.com",
+    "phone": "+12743564820",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1106",
+    "first_name": "Luc\u00eda",
+    "last_name": "Wilson",
+    "email": "luc\u00eda.wilson@baycare-ortho.com",
+    "phone": "+17785764639",
+    "practice_id": "prac_001",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "spanish_preferred:true"
+    ]
+  },
+  {
+    "id": "pt_1107",
+    "first_name": "Ava",
+    "last_name": "Lee",
+    "email": "ava.lee@dwh-clinic.com",
+    "phone": "+18692156474",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1108",
+    "first_name": "Harper",
+    "last_name": "Brooks",
+    "email": "harper.brooks@dwh-clinic.com",
+    "phone": "+12075393274",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1109",
+    "first_name": "Ana",
+    "last_name": "Santos",
+    "email": "ana.santos@sunriseoncology.com",
+    "phone": "+15852223975",
+    "practice_id": "prac_003",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "spanish_preferred:true"
+    ]
+  },
+  {
+    "id": "pt_1110",
+    "first_name": "Alexander",
+    "last_name": "Rodriguez",
+    "email": "alexander.rodriguez@dwh-clinic.com",
+    "phone": "+14547466625",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1111",
+    "first_name": "Liam",
+    "last_name": "Perez",
+    "email": "liam.perez@baycare-ortho.com",
+    "phone": "+16796561028",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1112",
+    "first_name": "Diego",
+    "last_name": "Williams",
+    "email": "diego.williams@sunriseoncology.com",
+    "phone": "+15112044783",
+    "practice_id": "prac_003",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1113",
+    "first_name": "Michael",
+    "last_name": "Kumar",
+    "email": "michael.kumar@sunriseoncology.com",
+    "phone": "+15393917033",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1114",
+    "first_name": "Benjamin",
+    "last_name": "Lopez",
+    "email": "benjamin.lopez@baycare-ortho.com",
+    "phone": "+18794488188",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1115",
+    "first_name": "Noah",
+    "last_name": "Brown",
+    "email": "noah.brown@sunriseoncology.com",
+    "phone": "+15254264617",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": [
+      "no_show_risk:high"
+    ]
+  },
+  {
+    "id": "pt_1116",
+    "first_name": "Alexander",
+    "last_name": "Kumar",
+    "email": "alexander.kumar@dwh-clinic.com",
+    "phone": "+18714264643",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1117",
+    "first_name": "Carlos",
+    "last_name": "Kumar",
+    "email": "carlos.kumar@sunriseoncology.com",
+    "phone": "+19486830838",
+    "practice_id": "prac_003",
+    "language": "es",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": [
+      "spanish_preferred:true"
+    ]
+  },
+  {
+    "id": "pt_1118",
+    "first_name": "Jackson",
+    "last_name": "Perez",
+    "email": "jackson.perez@baycare-ortho.com",
+    "phone": "+13383443328",
+    "practice_id": "prac_001",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": true
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1119",
+    "first_name": "Charlotte",
+    "last_name": "Rodriguez",
+    "email": "charlotte.rodriguez@sunriseoncology.com",
+    "phone": "+16070291198",
+    "practice_id": "prac_003",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": true,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  },
+  {
+    "id": "pt_1120",
+    "first_name": "Logan",
+    "last_name": "Taylor",
+    "email": "logan.taylor@dwh-clinic.com",
+    "phone": "+19771434277",
+    "practice_id": "prac_002",
+    "language": "en",
+    "comm_prefs": {
+      "sms": true,
+      "email": false,
+      "call": false
+    },
+    "dnc": false,
+    "tags": []
+  }
+]

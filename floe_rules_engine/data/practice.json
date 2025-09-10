@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prac_001",
+    "name": "BayCare Ortho Group",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155550101",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_002",
+    "name": "Downtown Women's Health",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+13125550102",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_003",
+    "name": "Sunrise Oncology",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+12125550103",
+    "domain": "sunriseoncology.com"
+  }
+]
