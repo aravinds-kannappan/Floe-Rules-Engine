@@ -1,0 +1,802 @@
+[
+  {
+    "id": "prac_001",
+    "name": "BayCare Ortho Group 1",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551001",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_002",
+    "name": "Downtown Women's Health 2",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551002",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_003",
+    "name": "Sunrise Oncology 3",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551003",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_004",
+    "name": "BayCare Ortho Group 4",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551004",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_005",
+    "name": "Downtown Women's Health 5",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551005",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_006",
+    "name": "Sunrise Oncology 6",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551006",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_007",
+    "name": "BayCare Ortho Group 7",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551007",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_008",
+    "name": "Downtown Women's Health 8",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551008",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_009",
+    "name": "Sunrise Oncology 9",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551009",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_010",
+    "name": "BayCare Ortho Group 10",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551010",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_011",
+    "name": "Downtown Women's Health 11",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551011",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_012",
+    "name": "Sunrise Oncology 12",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551012",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_013",
+    "name": "BayCare Ortho Group 13",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551013",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_014",
+    "name": "Downtown Women's Health 14",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551014",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_015",
+    "name": "Sunrise Oncology 15",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551015",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_016",
+    "name": "BayCare Ortho Group 16",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551016",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_017",
+    "name": "Downtown Women's Health 17",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551017",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_018",
+    "name": "Sunrise Oncology 18",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551018",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_019",
+    "name": "BayCare Ortho Group 19",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551019",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_020",
+    "name": "Downtown Women's Health 20",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551020",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_021",
+    "name": "Sunrise Oncology 21",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551021",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_022",
+    "name": "BayCare Ortho Group 22",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551022",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_023",
+    "name": "Downtown Women's Health 23",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551023",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_024",
+    "name": "Sunrise Oncology 24",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551024",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_025",
+    "name": "BayCare Ortho Group 25",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551025",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_026",
+    "name": "Downtown Women's Health 26",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551026",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_027",
+    "name": "Sunrise Oncology 27",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551027",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_028",
+    "name": "BayCare Ortho Group 28",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551028",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_029",
+    "name": "Downtown Women's Health 29",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551029",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_030",
+    "name": "Sunrise Oncology 30",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551030",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_031",
+    "name": "BayCare Ortho Group 31",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551031",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_032",
+    "name": "Downtown Women's Health 32",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551032",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_033",
+    "name": "Sunrise Oncology 33",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551033",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_034",
+    "name": "BayCare Ortho Group 34",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551034",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_035",
+    "name": "Downtown Women's Health 35",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551035",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_036",
+    "name": "Sunrise Oncology 36",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551036",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_037",
+    "name": "BayCare Ortho Group 37",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551037",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_038",
+    "name": "Downtown Women's Health 38",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551038",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_039",
+    "name": "Sunrise Oncology 39",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551039",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_040",
+    "name": "BayCare Ortho Group 40",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551040",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_041",
+    "name": "Downtown Women's Health 41",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551041",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_042",
+    "name": "Sunrise Oncology 42",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551042",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_043",
+    "name": "BayCare Ortho Group 43",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551043",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_044",
+    "name": "Downtown Women's Health 44",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551044",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_045",
+    "name": "Sunrise Oncology 45",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551045",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_046",
+    "name": "BayCare Ortho Group 46",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551046",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_047",
+    "name": "Downtown Women's Health 47",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551047",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_048",
+    "name": "Sunrise Oncology 48",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551048",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_049",
+    "name": "BayCare Ortho Group 49",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551049",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_050",
+    "name": "Downtown Women's Health 50",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551050",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_051",
+    "name": "Sunrise Oncology 51",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551051",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_052",
+    "name": "BayCare Ortho Group 52",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551052",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_053",
+    "name": "Downtown Women's Health 53",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551053",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_054",
+    "name": "Sunrise Oncology 54",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551054",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_055",
+    "name": "BayCare Ortho Group 55",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551055",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_056",
+    "name": "Downtown Women's Health 56",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551056",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_057",
+    "name": "Sunrise Oncology 57",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551057",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_058",
+    "name": "BayCare Ortho Group 58",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551058",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_059",
+    "name": "Downtown Women's Health 59",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551059",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_060",
+    "name": "Sunrise Oncology 60",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551060",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_061",
+    "name": "BayCare Ortho Group 61",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551061",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_062",
+    "name": "Downtown Women's Health 62",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551062",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_063",
+    "name": "Sunrise Oncology 63",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551063",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_064",
+    "name": "BayCare Ortho Group 64",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551064",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_065",
+    "name": "Downtown Women's Health 65",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551065",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_066",
+    "name": "Sunrise Oncology 66",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551066",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_067",
+    "name": "BayCare Ortho Group 67",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551067",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_068",
+    "name": "Downtown Women's Health 68",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551068",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_069",
+    "name": "Sunrise Oncology 69",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551069",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_070",
+    "name": "BayCare Ortho Group 70",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551070",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_071",
+    "name": "Downtown Women's Health 71",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551071",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_072",
+    "name": "Sunrise Oncology 72",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551072",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_073",
+    "name": "BayCare Ortho Group 73",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551073",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_074",
+    "name": "Downtown Women's Health 74",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551074",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_075",
+    "name": "Sunrise Oncology 75",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551075",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_076",
+    "name": "BayCare Ortho Group 76",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551076",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_077",
+    "name": "Downtown Women's Health 77",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551077",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_078",
+    "name": "Sunrise Oncology 78",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551078",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_079",
+    "name": "BayCare Ortho Group 79",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551079",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_080",
+    "name": "Downtown Women's Health 80",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551080",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_081",
+    "name": "Sunrise Oncology 81",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551081",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_082",
+    "name": "BayCare Ortho Group 82",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551082",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_083",
+    "name": "Downtown Women's Health 83",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551083",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_084",
+    "name": "Sunrise Oncology 84",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551084",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_085",
+    "name": "BayCare Ortho Group 85",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551085",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_086",
+    "name": "Downtown Women's Health 86",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551086",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_087",
+    "name": "Sunrise Oncology 87",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551087",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_088",
+    "name": "BayCare Ortho Group 88",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551088",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_089",
+    "name": "Downtown Women's Health 89",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551089",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_090",
+    "name": "Sunrise Oncology 90",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551090",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_091",
+    "name": "BayCare Ortho Group 91",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551091",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_092",
+    "name": "Downtown Women's Health 92",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551092",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_093",
+    "name": "Sunrise Oncology 93",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551093",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_094",
+    "name": "BayCare Ortho Group 94",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551094",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_095",
+    "name": "Downtown Women's Health 95",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551095",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_096",
+    "name": "Sunrise Oncology 96",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551096",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_097",
+    "name": "BayCare Ortho Group 97",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551097",
+    "domain": "baycare-ortho.com"
+  },
+  {
+    "id": "prac_098",
+    "name": "Downtown Women's Health 98",
+    "timezone": "America/Chicago",
+    "reply_to_email": "noreply@dwh-clinic.com",
+    "default_sender_phone": "+14155551098",
+    "domain": "dwh-clinic.com"
+  },
+  {
+    "id": "prac_099",
+    "name": "Sunrise Oncology 99",
+    "timezone": "America/New_York",
+    "reply_to_email": "noreply@sunriseoncology.com",
+    "default_sender_phone": "+14155551099",
+    "domain": "sunriseoncology.com"
+  },
+  {
+    "id": "prac_100",
+    "name": "BayCare Ortho Group 100",
+    "timezone": "America/Los_Angeles",
+    "reply_to_email": "noreply@baycare-ortho.com",
+    "default_sender_phone": "+14155551100",
+    "domain": "baycare-ortho.com"
+  }
+]

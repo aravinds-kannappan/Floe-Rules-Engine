@@ -1,0 +1,873 @@
+[
+  {
+    "id": "evt_0001",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T00:10:00Z",
+    "payload": {
+      "patient_id": "pt_0001",
+      "from_practice_id": "prac_001",
+      "to_practice_id": "prac_003"
+    }
+  },
+  {
+    "id": "evt_0002",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T00:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0002",
+      "status": "SCHEDULED"
+    }
+  },
+  {
+    "id": "evt_0003",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T00:30:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0004",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T00:40:00Z",
+    "payload": {
+      "patient_id": "pt_0004",
+      "from_practice_id": "prac_004",
+      "to_practice_id": "prac_006"
+    }
+  },
+  {
+    "id": "evt_0005",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T00:50:00Z",
+    "payload": {
+      "appointment_id": "appt_0005"
+    }
+  },
+  {
+    "id": "evt_0006",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T01:00:00Z",
+    "payload": {
+      "patient_id": "pt_0006",
+      "practice_id": "prac_006",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0007",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T01:10:00Z",
+    "payload": {
+      "patient_id": "pt_0007",
+      "practice_id": "prac_007",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0008",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T01:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0008"
+    }
+  },
+  {
+    "id": "evt_0009",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T01:30:00Z",
+    "payload": {
+      "appointment_id": "appt_0009",
+      "status": "SCHEDULED"
+    }
+  },
+  {
+    "id": "evt_0010",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T01:40:00Z",
+    "payload": {
+      "patient_id": "pt_0010",
+      "practice_id": "prac_010",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0011",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T01:50:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0012",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T02:00:00Z",
+    "payload": {
+      "appointment_id": "appt_0012",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0013",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T02:10:00Z",
+    "payload": {
+      "patient_id": "pt_0013",
+      "from_practice_id": "prac_013",
+      "to_practice_id": "prac_015"
+    }
+  },
+  {
+    "id": "evt_0014",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T02:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0014",
+      "status": "SCHEDULED"
+    }
+  },
+  {
+    "id": "evt_0015",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T02:30:00Z",
+    "payload": {
+      "appointment_id": "appt_0015",
+      "status": "CANCELLED"
+    }
+  },
+  {
+    "id": "evt_0016",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T02:40:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0017",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T02:50:00Z",
+    "payload": {
+      "appointment_id": "appt_0017",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0018",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T03:00:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0019",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T03:10:00Z",
+    "payload": {
+      "appointment_id": "appt_0019",
+      "status": "SCHEDULED"
+    }
+  },
+  {
+    "id": "evt_0020",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T03:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0020",
+      "status": "CANCELLED"
+    }
+  },
+  {
+    "id": "evt_0021",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T03:30:00Z",
+    "payload": {
+      "patient_id": "pt_0021",
+      "from_practice_id": "prac_021",
+      "to_practice_id": "prac_023"
+    }
+  },
+  {
+    "id": "evt_0022",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T03:40:00Z",
+    "payload": {
+      "appointment_id": "appt_0022"
+    }
+  },
+  {
+    "id": "evt_0023",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T03:50:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0024",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T04:00:00Z",
+    "payload": {
+      "appointment_id": "appt_0024"
+    }
+  },
+  {
+    "id": "evt_0025",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T04:10:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0026",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T04:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0026",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0027",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T04:30:00Z",
+    "payload": {
+      "appointment_id": "appt_0027",
+      "status": "SCHEDULED"
+    }
+  },
+  {
+    "id": "evt_0028",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T04:40:00Z",
+    "payload": {
+      "patient_id": "pt_0028",
+      "practice_id": "prac_028",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0029",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T04:50:00Z",
+    "payload": {
+      "appointment_id": "appt_0029",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0030",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T05:00:00Z",
+    "payload": {
+      "patient_id": "pt_0030",
+      "practice_id": "prac_030",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0031",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T05:10:00Z",
+    "payload": {
+      "patient_id": "pt_0031",
+      "practice_id": "prac_031",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0032",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T05:20:00Z",
+    "payload": {
+      "patient_id": "pt_0032",
+      "from_practice_id": "prac_032",
+      "to_practice_id": "prac_034"
+    }
+  },
+  {
+    "id": "evt_0033",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T05:30:00Z",
+    "payload": {
+      "patient_id": "pt_0033",
+      "practice_id": "prac_033",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0034",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T05:40:00Z",
+    "payload": {
+      "appointment_id": "appt_0034",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0035",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T05:50:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0036",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T06:00:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0037",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T06:10:00Z",
+    "payload": {
+      "appointment_id": "appt_0037",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0038",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T06:20:00Z",
+    "payload": {
+      "patient_id": "pt_0038",
+      "from_practice_id": "prac_038",
+      "to_practice_id": "prac_040"
+    }
+  },
+  {
+    "id": "evt_0039",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T06:30:00Z",
+    "payload": {
+      "appointment_id": "appt_0039",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0040",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T06:40:00Z",
+    "payload": {
+      "appointment_id": "appt_0040",
+      "status": "SCHEDULED"
+    }
+  },
+  {
+    "id": "evt_0041",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T06:50:00Z",
+    "payload": {
+      "appointment_id": "appt_0041"
+    }
+  },
+  {
+    "id": "evt_0042",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T07:00:00Z",
+    "payload": {
+      "appointment_id": "appt_0042",
+      "status": "SCHEDULED"
+    }
+  },
+  {
+    "id": "evt_0043",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T07:10:00Z",
+    "payload": {
+      "appointment_id": "appt_0043",
+      "status": "INCOMPLETE"
+    }
+  },
+  {
+    "id": "evt_0044",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T07:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0044"
+    }
+  },
+  {
+    "id": "evt_0045",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T07:30:00Z",
+    "payload": {
+      "appointment_id": "appt_0045",
+      "status": "CANCELLED"
+    }
+  },
+  {
+    "id": "evt_0046",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T07:40:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0047",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T07:50:00Z",
+    "payload": {
+      "patient_id": "pt_0047",
+      "practice_id": "prac_047",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0048",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T08:00:00Z",
+    "payload": {
+      "patient_id": "pt_0048",
+      "practice_id": "prac_048",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0049",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T08:10:00Z",
+    "payload": {
+      "patient_id": "pt_0049",
+      "practice_id": "prac_049",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0050",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T08:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0050",
+      "status": "COMPLETED"
+    }
+  },
+  {
+    "id": "evt_0051",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T08:30:00Z",
+    "payload": {
+      "patient_id": "pt_0051",
+      "from_practice_id": "prac_051",
+      "to_practice_id": "prac_053"
+    }
+  },
+  {
+    "id": "evt_0052",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T08:40:00Z",
+    "payload": {
+      "patient_id": "pt_0052",
+      "practice_id": "prac_052",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0053",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T08:50:00Z",
+    "payload": {
+      "patient_id": "pt_0053",
+      "practice_id": "prac_053",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0054",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T09:00:00Z",
+    "payload": {
+      "appointment_id": "appt_0054",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0055",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T09:10:00Z",
+    "payload": {
+      "patient_id": "pt_0055",
+      "from_practice_id": "prac_055",
+      "to_practice_id": "prac_057"
+    }
+  },
+  {
+    "id": "evt_0056",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T09:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0056"
+    }
+  },
+  {
+    "id": "evt_0057",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T09:30:00Z",
+    "payload": {
+      "appointment_id": "appt_0057"
+    }
+  },
+  {
+    "id": "evt_0058",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T09:40:00Z",
+    "payload": {
+      "patient_id": "pt_0058",
+      "practice_id": "prac_058",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0059",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T09:50:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0060",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T10:00:00Z",
+    "payload": {
+      "appointment_id": "appt_0060"
+    }
+  },
+  {
+    "id": "evt_0061",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T10:10:00Z",
+    "payload": {
+      "appointment_id": "appt_0061"
+    }
+  },
+  {
+    "id": "evt_0062",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T10:20:00Z",
+    "payload": {
+      "patient_id": "pt_0062",
+      "practice_id": "prac_062",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0063",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T10:30:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0064",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T10:40:00Z",
+    "payload": {
+      "patient_id": "pt_0064",
+      "from_practice_id": "prac_064",
+      "to_practice_id": "prac_066"
+    }
+  },
+  {
+    "id": "evt_0065",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T10:50:00Z",
+    "payload": {
+      "appointment_id": "appt_0065",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0066",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T11:00:00Z",
+    "payload": {
+      "appointment_id": "appt_0066"
+    }
+  },
+  {
+    "id": "evt_0067",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T11:10:00Z",
+    "payload": {
+      "appointment_id": "appt_0067"
+    }
+  },
+  {
+    "id": "evt_0068",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T11:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0068"
+    }
+  },
+  {
+    "id": "evt_0069",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T11:30:00Z",
+    "payload": {
+      "patient_id": "pt_0069",
+      "practice_id": "prac_069",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0070",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T11:40:00Z",
+    "payload": {
+      "patient_id": "pt_0070",
+      "practice_id": "prac_070",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0071",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T11:50:00Z",
+    "payload": {
+      "appointment_id": "appt_0071",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0072",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T12:00:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0073",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T12:10:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0074",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T12:20:00Z",
+    "payload": {
+      "patient_id": "pt_0074",
+      "from_practice_id": "prac_074",
+      "to_practice_id": "prac_076"
+    }
+  },
+  {
+    "id": "evt_0075",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T12:30:00Z",
+    "payload": {
+      "patient_id": "pt_0075",
+      "practice_id": "prac_075",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0076",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T12:40:00Z",
+    "payload": {
+      "patient_id": "pt_0076",
+      "from_practice_id": "prac_076",
+      "to_practice_id": "prac_078"
+    }
+  },
+  {
+    "id": "evt_0077",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T12:50:00Z",
+    "payload": {
+      "patient_id": "pt_0077",
+      "practice_id": "prac_077",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0078",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T13:00:00Z",
+    "payload": {
+      "appointment_id": "appt_0078"
+    }
+  },
+  {
+    "id": "evt_0079",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T13:10:00Z",
+    "payload": {
+      "patient_id": "pt_0079",
+      "practice_id": "prac_079",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0080",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T13:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0080",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0081",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T13:30:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0082",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T13:40:00Z",
+    "payload": {
+      "appointment_id": "appt_0082"
+    }
+  },
+  {
+    "id": "evt_0083",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T13:50:00Z",
+    "payload": {
+      "appointment_id": "appt_0083",
+      "status": "COMPLETED"
+    }
+  },
+  {
+    "id": "evt_0084",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T14:00:00Z",
+    "payload": {
+      "appointment_id": "appt_0084",
+      "status": "SCHEDULED"
+    }
+  },
+  {
+    "id": "evt_0085",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T14:10:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0086",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T14:20:00Z",
+    "payload": {
+      "patient_id": "pt_0086",
+      "from_practice_id": "prac_086",
+      "to_practice_id": "prac_088"
+    }
+  },
+  {
+    "id": "evt_0087",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T14:30:00Z",
+    "payload": {
+      "patient_id": "pt_0087",
+      "from_practice_id": "prac_087",
+      "to_practice_id": "prac_089"
+    }
+  },
+  {
+    "id": "evt_0088",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T14:40:00Z",
+    "payload": {
+      "appointment_id": "appt_0088"
+    }
+  },
+  {
+    "id": "evt_0089",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T14:50:00Z",
+    "payload": {
+      "appointment_id": "appt_0089",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0090",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T15:00:00Z",
+    "payload": {
+      "patient_id": "pt_0090",
+      "practice_id": "prac_090",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0091",
+    "type": "referral.created",
+    "occurred_at": "2025-09-07T15:10:00Z",
+    "payload": {
+      "patient_id": "pt_0091",
+      "from_practice_id": "prac_091",
+      "to_practice_id": "prac_093"
+    }
+  },
+  {
+    "id": "evt_0092",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T15:20:00Z",
+    "payload": {
+      "appointment_id": "appt_0092",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0093",
+    "type": "appointment.created",
+    "occurred_at": "2025-09-07T15:30:00Z",
+    "payload": {
+      "appointment_id": "appt_0093"
+    }
+  },
+  {
+    "id": "evt_0094",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T15:40:00Z",
+    "payload": {
+      "appointment_id": "appt_0094",
+      "status": "COMPLETED"
+    }
+  },
+  {
+    "id": "evt_0095",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T15:50:00Z",
+    "payload": {
+      "appointment_id": "appt_0095",
+      "status": "SCHEDULED"
+    }
+  },
+  {
+    "id": "evt_0096",
+    "type": "appointment.updated",
+    "occurred_at": "2025-09-07T16:00:00Z",
+    "payload": {
+      "appointment_id": "appt_0096",
+      "status": "COMPLETED"
+    }
+  },
+  {
+    "id": "evt_0097",
+    "type": "intake.updated",
+    "occurred_at": "2025-09-07T16:10:00Z",
+    "payload": {
+      "appointment_id": "appt_0097",
+      "status": "COMPLETE"
+    }
+  },
+  {
+    "id": "evt_0098",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T16:20:00Z",
+    "payload": {
+      "patient_id": "pt_0098",
+      "practice_id": "prac_098",
+      "from": "+14155550999"
+    }
+  },
+  {
+    "id": "evt_0099",
+    "type": "schedule.tick",
+    "occurred_at": "2025-09-07T16:30:00Z",
+    "payload": {}
+  },
+  {
+    "id": "evt_0100",
+    "type": "call.missed",
+    "occurred_at": "2025-09-07T16:40:00Z",
+    "payload": {
+      "patient_id": "pt_0100",
+      "practice_id": "prac_100",
+      "from": "+14155550999"
+    }
+  }
+]
