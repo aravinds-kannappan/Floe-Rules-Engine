@@ -1,0 +1,2022 @@
+[
+  {
+    "id": "appt_2001",
+    "patient_id": "pt_1001",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-08T11:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2002",
+    "patient_id": "pt_1001",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-12T10:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2003",
+    "patient_id": "pt_1002",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-12T08:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "MRI follow-up",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2004",
+    "patient_id": "pt_1002",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-07T10:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2005",
+    "patient_id": "pt_1003",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T07:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2006",
+    "patient_id": "pt_1004",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-07T16:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "Post-op check",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2007",
+    "patient_id": "pt_1004",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-07T08:00:00-05:00",
+    "status": "CANCELLED",
+    "type": "Oncology infusion",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2008",
+    "patient_id": "pt_1005",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T18:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2009",
+    "patient_id": "pt_1005",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T20:00:00-04:00",
+    "status": "CANCELLED",
+    "type": "After-hours clinic",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2010",
+    "patient_id": "pt_1006",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T18:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2011",
+    "patient_id": "pt_1006",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2012",
+    "patient_id": "pt_1007",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-10T15:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2013",
+    "patient_id": "pt_1007",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T10:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2014",
+    "patient_id": "pt_1008",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T09:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2015",
+    "patient_id": "pt_1009",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-08T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2016",
+    "patient_id": "pt_1010",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T07:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2017",
+    "patient_id": "pt_1010",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T10:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2018",
+    "patient_id": "pt_1011",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-10T07:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2019",
+    "patient_id": "pt_1011",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-08T20:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2020",
+    "patient_id": "pt_1012",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T18:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2021",
+    "patient_id": "pt_1012",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T20:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2022",
+    "patient_id": "pt_1013",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T14:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2023",
+    "patient_id": "pt_1013",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T07:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2024",
+    "patient_id": "pt_1014",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-08T07:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2025",
+    "patient_id": "pt_1014",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T16:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2026",
+    "patient_id": "pt_1015",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T20:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "San Mateo",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2027",
+    "patient_id": "pt_1015",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T08:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2028",
+    "patient_id": "pt_1016",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T10:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2029",
+    "patient_id": "pt_1016",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T08:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2030",
+    "patient_id": "pt_1017",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T14:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "Post-op check",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2031",
+    "patient_id": "pt_1017",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T15:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2032",
+    "patient_id": "pt_1018",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T16:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2033",
+    "patient_id": "pt_1019",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-08T20:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "Oncology consult",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2034",
+    "patient_id": "pt_1019",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-07T20:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2035",
+    "patient_id": "pt_1020",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T07:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2036",
+    "patient_id": "pt_1020",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-06T11:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2037",
+    "patient_id": "pt_1021",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "San Mateo",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2038",
+    "patient_id": "pt_1021",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T18:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2039",
+    "patient_id": "pt_1022",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T06:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "MRI follow-up",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2040",
+    "patient_id": "pt_1022",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-08T16:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2041",
+    "patient_id": "pt_1023",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-07T07:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2042",
+    "patient_id": "pt_1024",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-12T07:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2043",
+    "patient_id": "pt_1025",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-08T06:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "Chicago",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2044",
+    "patient_id": "pt_1025",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-10T20:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2045",
+    "patient_id": "pt_1026",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T14:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2046",
+    "patient_id": "pt_1026",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T11:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2047",
+    "patient_id": "pt_1027",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T14:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2048",
+    "patient_id": "pt_1027",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T08:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2049",
+    "patient_id": "pt_1028",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T16:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2050",
+    "patient_id": "pt_1028",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T20:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2051",
+    "patient_id": "pt_1029",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-10T08:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2052",
+    "patient_id": "pt_1029",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T09:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2053",
+    "patient_id": "pt_1030",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T08:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "Ortho consult",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2054",
+    "patient_id": "pt_1030",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T14:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "After-hours clinic",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2055",
+    "patient_id": "pt_1031",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T14:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2056",
+    "patient_id": "pt_1031",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-08T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2057",
+    "patient_id": "pt_1032",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T09:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2058",
+    "patient_id": "pt_1032",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T16:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2059",
+    "patient_id": "pt_1033",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-06T08:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2060",
+    "patient_id": "pt_1034",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T15:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2061",
+    "patient_id": "pt_1035",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-12T15:00:00-05:00",
+    "status": "CANCELLED",
+    "type": "OB/GYN annual",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2062",
+    "patient_id": "pt_1035",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-06T16:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2063",
+    "patient_id": "pt_1036",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-08T08:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2064",
+    "patient_id": "pt_1036",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-10T15:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2065",
+    "patient_id": "pt_1037",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-10T11:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2066",
+    "patient_id": "pt_1037",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2067",
+    "patient_id": "pt_1038",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-08T10:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2068",
+    "patient_id": "pt_1038",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T08:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2069",
+    "patient_id": "pt_1039",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-07T11:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "Oncology infusion",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2070",
+    "patient_id": "pt_1039",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-07T08:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2071",
+    "patient_id": "pt_1040",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T08:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "San Jose",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2072",
+    "patient_id": "pt_1041",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T07:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2073",
+    "patient_id": "pt_1042",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-12T07:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2074",
+    "patient_id": "pt_1042",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-11T10:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2075",
+    "patient_id": "pt_1043",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T09:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2076",
+    "patient_id": "pt_1044",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T11:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2077",
+    "patient_id": "pt_1045",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-10T20:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "Post-op check",
+    "location": "NYC",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2078",
+    "patient_id": "pt_1045",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-07T11:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2079",
+    "patient_id": "pt_1046",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T09:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2080",
+    "patient_id": "pt_1046",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T06:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "OB/GYN annual",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2081",
+    "patient_id": "pt_1047",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T09:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2082",
+    "patient_id": "pt_1047",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T20:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2083",
+    "patient_id": "pt_1048",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-10T09:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2084",
+    "patient_id": "pt_1048",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-08T16:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2085",
+    "patient_id": "pt_1049",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T07:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2086",
+    "patient_id": "pt_1050",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-08T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2087",
+    "patient_id": "pt_1050",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T08:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "NYC",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2088",
+    "patient_id": "pt_1051",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T15:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2089",
+    "patient_id": "pt_1051",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-06T15:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2090",
+    "patient_id": "pt_1052",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T06:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2091",
+    "patient_id": "pt_1052",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2092",
+    "patient_id": "pt_1053",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2093",
+    "patient_id": "pt_1053",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-08T06:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "Post-op check",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2094",
+    "patient_id": "pt_1054",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-06T08:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2095",
+    "patient_id": "pt_1054",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-08T07:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2096",
+    "patient_id": "pt_1055",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2097",
+    "patient_id": "pt_1055",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-10T16:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2098",
+    "patient_id": "pt_1056",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2099",
+    "patient_id": "pt_1057",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T07:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2100",
+    "patient_id": "pt_1057",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-08T06:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "MRI follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2101",
+    "patient_id": "pt_1058",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T15:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2102",
+    "patient_id": "pt_1058",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T08:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "Oncology infusion",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2103",
+    "patient_id": "pt_1059",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-06T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "NYC",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2104",
+    "patient_id": "pt_1060",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T20:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "San Jose",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2105",
+    "patient_id": "pt_1061",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2106",
+    "patient_id": "pt_1062",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T09:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2107",
+    "patient_id": "pt_1062",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2108",
+    "patient_id": "pt_1063",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T07:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2109",
+    "patient_id": "pt_1063",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T07:00:00-07:00",
+    "status": "CANCELLED",
+    "type": "MRI follow-up",
+    "location": "San Jose",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2110",
+    "patient_id": "pt_1064",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-10T08:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2111",
+    "patient_id": "pt_1065",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-11T06:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "OB/GYN annual",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2112",
+    "patient_id": "pt_1066",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T16:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "Ortho consult",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2113",
+    "patient_id": "pt_1067",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T10:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2114",
+    "patient_id": "pt_1067",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-06T15:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "NYC",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2115",
+    "patient_id": "pt_1068",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T07:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2116",
+    "patient_id": "pt_1068",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-06T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2117",
+    "patient_id": "pt_1069",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T14:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2118",
+    "patient_id": "pt_1069",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T08:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "Referral consult",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2119",
+    "patient_id": "pt_1070",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-06T16:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2120",
+    "patient_id": "pt_1070",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T08:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2121",
+    "patient_id": "pt_1071",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-08T14:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2122",
+    "patient_id": "pt_1071",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-10T07:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2123",
+    "patient_id": "pt_1072",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T18:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2124",
+    "patient_id": "pt_1073",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T09:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2125",
+    "patient_id": "pt_1074",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T20:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2126",
+    "patient_id": "pt_1074",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T20:00:00-07:00",
+    "status": "CANCELLED",
+    "type": "Oncology consult",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2127",
+    "patient_id": "pt_1075",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T08:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2128",
+    "patient_id": "pt_1075",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T06:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2129",
+    "patient_id": "pt_1076",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-12T07:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2130",
+    "patient_id": "pt_1076",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-12T11:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "Chicago",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2131",
+    "patient_id": "pt_1077",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T20:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2132",
+    "patient_id": "pt_1077",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T06:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2133",
+    "patient_id": "pt_1078",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T18:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "Referral consult",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2134",
+    "patient_id": "pt_1079",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-08T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2135",
+    "patient_id": "pt_1079",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T09:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "OB/GYN annual",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2136",
+    "patient_id": "pt_1080",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T14:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2137",
+    "patient_id": "pt_1080",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-08T09:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2138",
+    "patient_id": "pt_1081",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-08T06:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "Oncology infusion",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2139",
+    "patient_id": "pt_1081",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-11T08:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "Chicago",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2140",
+    "patient_id": "pt_1082",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T11:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2141",
+    "patient_id": "pt_1083",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T06:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2142",
+    "patient_id": "pt_1083",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T09:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2143",
+    "patient_id": "pt_1084",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T09:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2144",
+    "patient_id": "pt_1085",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-10T20:00:00-05:00",
+    "status": "CANCELLED",
+    "type": "Oncology consult",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2145",
+    "patient_id": "pt_1085",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-07T18:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2146",
+    "patient_id": "pt_1086",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T16:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2147",
+    "patient_id": "pt_1086",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T11:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2148",
+    "patient_id": "pt_1087",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-11T09:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "After-hours clinic",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2149",
+    "patient_id": "pt_1087",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-10T07:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "Oncology infusion",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2150",
+    "patient_id": "pt_1088",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T18:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "Redwood City",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2151",
+    "patient_id": "pt_1088",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2152",
+    "patient_id": "pt_1089",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T07:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2153",
+    "patient_id": "pt_1090",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T09:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "OB/GYN annual",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2154",
+    "patient_id": "pt_1090",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T20:00:00-07:00",
+    "status": "CANCELLED",
+    "type": "Telehealth follow-up",
+    "location": "San Jose",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2155",
+    "patient_id": "pt_1091",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T06:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2156",
+    "patient_id": "pt_1092",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T18:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2157",
+    "patient_id": "pt_1092",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-07T10:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2158",
+    "patient_id": "pt_1093",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T14:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "San Jose",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2159",
+    "patient_id": "pt_1093",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T18:00:00-07:00",
+    "status": "CANCELLED",
+    "type": "Telehealth follow-up",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2160",
+    "patient_id": "pt_1094",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-08T09:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2161",
+    "patient_id": "pt_1094",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-11T10:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2162",
+    "patient_id": "pt_1095",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-07T11:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2163",
+    "patient_id": "pt_1095",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-06T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2164",
+    "patient_id": "pt_1096",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2165",
+    "patient_id": "pt_1096",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T11:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "Ortho consult",
+    "location": "San Mateo",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2166",
+    "patient_id": "pt_1097",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T08:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2167",
+    "patient_id": "pt_1098",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-06T16:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2168",
+    "patient_id": "pt_1098",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-07T14:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "NYC",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2169",
+    "patient_id": "pt_1099",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T10:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2170",
+    "patient_id": "pt_1099",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-06T07:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2171",
+    "patient_id": "pt_1100",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-06T14:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2172",
+    "patient_id": "pt_1100",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-07T07:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "MRI follow-up",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2173",
+    "patient_id": "pt_1101",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T08:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "After-hours clinic",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2174",
+    "patient_id": "pt_1101",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-09T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2175",
+    "patient_id": "pt_1102",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T11:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2176",
+    "patient_id": "pt_1102",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T14:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2177",
+    "patient_id": "pt_1103",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-08T06:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2178",
+    "patient_id": "pt_1104",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-07T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2179",
+    "patient_id": "pt_1104",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T16:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Post-op check",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2180",
+    "patient_id": "pt_1105",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T14:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2181",
+    "patient_id": "pt_1106",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T11:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "Redwood City",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2182",
+    "patient_id": "pt_1106",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-08T16:00:00-07:00",
+    "status": "COMPLETED",
+    "type": "Oncology consult",
+    "location": "San Mateo",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2183",
+    "patient_id": "pt_1107",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-06T15:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "Oncology consult",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2184",
+    "patient_id": "pt_1108",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-11T14:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "After-hours clinic",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2185",
+    "patient_id": "pt_1109",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-08T06:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "PT session",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2186",
+    "patient_id": "pt_1109",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-06T14:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2187",
+    "patient_id": "pt_1110",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-06T10:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "Ortho consult",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2188",
+    "patient_id": "pt_1111",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-11T08:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "San Jose",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2189",
+    "patient_id": "pt_1111",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T16:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2190",
+    "patient_id": "pt_1112",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-12T11:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2191",
+    "patient_id": "pt_1112",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T08:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "MRI follow-up",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2192",
+    "patient_id": "pt_1113",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-07T06:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Referral consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2193",
+    "patient_id": "pt_1114",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-10T15:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "OB/GYN annual",
+    "location": "San Jose",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2194",
+    "patient_id": "pt_1114",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-08T11:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "Oncology consult",
+    "location": "San Jose",
+    "no_show_risk": "high"
+  },
+  {
+    "id": "appt_2195",
+    "patient_id": "pt_1115",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-10T20:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Oncology infusion",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2196",
+    "patient_id": "pt_1115",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T20:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "PT session",
+    "location": "NYC",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2197",
+    "patient_id": "pt_1116",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-09T16:00:00-05:00",
+    "status": "COMPLETED",
+    "type": "After-hours clinic",
+    "location": "Chicago",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2198",
+    "patient_id": "pt_1117",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-11T16:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "Ortho consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2199",
+    "patient_id": "pt_1118",
+    "practice_id": "prac_001",
+    "start_time": "2025-09-12T06:00:00-07:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "San Mateo",
+    "no_show_risk": "medium"
+  },
+  {
+    "id": "appt_2200",
+    "patient_id": "pt_1119",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-09T16:00:00-04:00",
+    "status": "COMPLETED",
+    "type": "Oncology consult",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2201",
+    "patient_id": "pt_1119",
+    "practice_id": "prac_003",
+    "start_time": "2025-09-10T09:00:00-04:00",
+    "status": "SCHEDULED",
+    "type": "After-hours clinic",
+    "location": "NYC",
+    "no_show_risk": "low"
+  },
+  {
+    "id": "appt_2202",
+    "patient_id": "pt_1120",
+    "practice_id": "prac_002",
+    "start_time": "2025-09-08T06:00:00-05:00",
+    "status": "SCHEDULED",
+    "type": "Telehealth follow-up",
+    "location": "Chicago",
+    "no_show_risk": "medium"
+  }
+]
